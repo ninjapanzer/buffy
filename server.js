@@ -16,6 +16,7 @@ var sheets = [
   "anya",
   "buffy",
   "cordelia",
+  "darla",
   "dawn",
   "demons",
   "drusilla",
@@ -23,16 +24,17 @@ var sheets = [
   "giles",
   "Human",
   "jonathan",
+  "kendra",
   "nonKills",
   "Oz",
   "potentials",
-  "allSlayers",
   "riley",
   "spike",
   "vampires",
   "willow",
   "xander",
-  "kendra"
+  "buffybot",
+  "tara"
 ];
 
 // Prepare the XLSX -> JSON transformer and register routes in express to the JSON api
